@@ -10,8 +10,13 @@
             iOS= "0, 20, 0, 0" />
     </ContentPage.Padding>
 
+    <StackLayout>
 
 
 
-    
+
+        
+
+
+    </StackLayout>
 </ContentPage>
